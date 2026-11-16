@@ -1,0 +1,8 @@
+{
+  "name": "Apex Drift 3D",
+  "description": "3D Multiplayer Car Racing & Open World Driving Game for Android & Web with Bluetooth & Online Pairing",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
